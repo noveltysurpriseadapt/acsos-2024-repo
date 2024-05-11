@@ -1,0 +1,19 @@
+{
+	"random_seed": null,
+	"scenario": 0,
+	"time_steps": 100,
+	"mirror_number": 25,
+	"mst_active_links": [8, 58],
+	"mst_bandwidth_consumption": [20, 30],
+	"mst_writing_time": [10, 20],
+	"rt_active_links": [50, 83],
+	"probability_of_change": {
+		"0": 0.2,
+		"1": 0.25,
+		"2": 0.25,
+		"3": 0.4,
+		"4": 0.5,
+		"5": 0.6,
+		"6": 0.7
+	}
+}
